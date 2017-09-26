@@ -1,1 +1,1 @@
-This is Scout's first git project!
+This is Scout's first git project!!
